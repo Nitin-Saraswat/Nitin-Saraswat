@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **C# and Asp .Net Core**
 
-- 📫 How to reach me **nitin.saraswat@remotestate.com**
+- 📫 How to reach me **nitin.saraswat@remotestate.in**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1q6KXPMiIy2hFhcnOGwRoa1rn02RGfJ31/view?usp=share_link](https://drive.google.com/file/d/1q6KXPMiIy2hFhcnOGwRoa1rn02RGfJ31/view?usp=share_link)
 
